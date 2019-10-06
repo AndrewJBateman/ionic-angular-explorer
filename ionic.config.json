@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-explorer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
