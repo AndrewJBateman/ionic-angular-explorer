@@ -15,7 +15,11 @@ App to create new folders and files. This is another great tutorial from [Simon 
 
 ## General info
 
-A file or directory can be selected from an ion-fab button at the bottom right of the screen.
+* A file or directory can be selected from an ion-fab button at the bottom right of the screen.
+
+* The **Cordova-plugin-file** plugin implements a File API allowing read/write access to files stored on the device.
+
+* The **cordova-plugin-file-opener2** plugin will open a file on your device file system with its default application.
 
 ## Screenshots
 
@@ -52,13 +56,13 @@ cordova.plugins.fileOpener2.open(
 
 ## Features
 
-* .
+* File storage and access.
 
 ## Status & To-do list
 
-* Status: Part working. Error from asynchronous operation. Could be because it is not tested on a cponnected device.
+* Status: Code complete, but needs to be tested on a connected device.
 
-* To-do: check code with latest Cordova docs.
+* To-do: setup a conected device/simulator to test properly.
 
 ## Inspiration
 
