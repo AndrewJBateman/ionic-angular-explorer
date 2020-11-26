@@ -1,6 +1,7 @@
 # :zap: Ionic Angular Explorer
 
-* App to create new folders and files. This is another great tutorial from [Simon Grimm of the IonicAcademy, Youtube video 'Ionic Native File Explorer'](https://www.youtube.com/watch?v=pDqG3iYDdM0&t=141s).
+* App to create new folders and files. 
+* This is another great tutorial from [Simon Grimm of the IonicAcademy, Youtube video 'Ionic Native File Explorer'](https://www.youtube.com/watch?v=pDqG3iYDdM0&t=141s).
 
 ## :page_facing_up: Table of contents
 
@@ -24,8 +25,7 @@
 
 ## :camera: Screenshots
 
-![screenshot](./img/.png)
-![screenshot](./img/.png)
+* tba
 
 ## :signal_strength: Technologies
 
