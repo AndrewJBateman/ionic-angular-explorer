@@ -15,6 +15,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -29,15 +30,16 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic v5](https://ionicframework.com/)
-* [Ionic/angular v5](https://ionicframework.com/)
-* [Angular v10](https://angular.io/)
-* [Apache Cordova v9](https://cordova.apache.org/) to target multiple platforms with one code base
+* [Ionic v6](https://ionicframework.com/)
+* [Ionic/angular v6](https://ionicframework.com/)
+* [Angular v13](https://angular.io/)
+* [Apache Cordova v11](https://cordova.apache.org/) to target multiple platforms with one code base
 * [cordova-plugin-file v6](https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-file/)
 * [cordova-plugin-file-opener v3](https://www.npmjs.com/package/cordova-plugin-file-opener2)
 
 ## :floppy_disk: Setup
 
+* `npm i` to install dependencies
 * To start the server on _localhost://8100_ type: 'ionic serve'
 * The Ionic DevApp was installed on an Android device from the Google Play app store.
 
@@ -69,6 +71,10 @@ cordova.plugins.fileOpener2.open(
 
 * [Simon Grimm IonicAcademy Youtube video 'Ionic Native File Explorer'](https://www.youtube.com/watch?v=pDqG3iYDdM0&t=141s)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
